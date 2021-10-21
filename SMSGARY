@@ -20,12 +20,11 @@ for i in range(3):
      print("ACCES GRANTED")
      break
     else:
-        print("\033[1;96mรหัสผิดน้าาาใจ้ย็นๆ\033[1;97m",i-l)
+        print("\033[1;96mรหัสผิดน้าาาใจ้เย็นๆ\033[1;97m",i-l)
 os.system("clear")
 os.system("figlet G   A   R   Y   S   M   S")
 print ("\tยิงเบอร์ 1.0")
 print("               ยิงตามบาย")
-print ("           YouTube: \033[1;96mLTEMX2\033[1;97m")
 print ("          \033[1;96m S  P  A  M  S  M  S\033[1;97m")
 print("Ferr Free Free Free Free")
 print("ห้ามขาย by Gary McKinnon")
@@ -71,10 +70,10 @@ t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล้ว [AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
+        print("ส่งไปแล้ว--------------- [AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล่ว [AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
+        print("ส่งไปแล่ว--------------- [AISP_Play]ส่งไปแล้วนะจะ gary mcKinnon ")
 loop(num)
